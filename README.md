@@ -97,8 +97,15 @@ VITE_API_URL=http://localhost:5000/api
 ```
 
 ## Screenshots
-![Employee Management](screenshots/employees.png)
-![Attendance Management](screenshots/attendance.png)
+### Employee management
+<img width="100%" height="auto" src="Screenshot/Employee managment 1.png" />
+<img width="100%" height="auto" src="Screenshot/Employee managment 2.png" />
+
+
+### Attendance management
+<img width="100%" height="auto" src="Screenshot/Attendance managment 1.png" />
+<img width="100%" height="auto" src="Screenshot/Attendance managment 2.png" />
+
 
 ## Assumptions & Limitations
 - Single admin user (no authentication system)
